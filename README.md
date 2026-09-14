@@ -1,16 +1,22 @@
-## Hi there 👋
+# Napia-Deniz Akkush
 
-<!--
-**Napia-Deniz/Napia-Deniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Fraud & Risk Specialist | iGaming & Payments
 
-Here are some ideas to get you started:
+Fraud & Risk Specialist with hands-on experience in transaction fraud within the iGaming industry. I investigate fraud across payment and player activity, including bonus abuse, account takeover, chargebacks, matched betting, collusion and chip dumping.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work also includes fraud detection rule management in SEON, identifying emerging fraud patterns and product vulnerabilities, and using data to support fraud prevention decisions.
+
+### 🔍 Fraud & Risk
+
+- Transaction Fraud Investigation
+- Fraud Pattern Detection
+- Payment & Bonus Abuse
+- Account Takeover & Chargebacks
+- KYC & Risk Assessment
+- Fraud Detection Rule Management
+
+### 📊 Data & Tools
+
+`SEON` `SQL` `Power BI` `Excel` `Power Query` `Jira`
+
+Currently developing my fraud analytics capabilities through SQL and Power BI, with a focus on applying data analysis to iGaming fraud, player behavior and transaction risk.
